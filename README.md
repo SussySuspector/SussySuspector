@@ -3,7 +3,7 @@
 
 - ⚡**I'm just a freshman at UIT now, wait me for 4 years ig**
 
-<h3 align="left">_____________________________________________________________________________________________________________</h3>
+<h3 align="left">stay foolish, stay hungry</h3>
 <p align="left">
 </p>
 

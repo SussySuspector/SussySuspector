@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sussy</h1>
 <h3 align="center">a kid who never grows up</h3>
 
-- ⚡ Fun fact **I'm just a freshman at UIT now, wait me for 4 years ig**
+- ⚡**I'm just a freshman at UIT now, wait me for 4 years ig**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">_____________________________________________________________________________________________________________</h3>
 <p align="left">
 </p>
 

@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sussy</h1>
-<h3 align="center">a kid who never grows up</h3>
-
-⚡**I'm just a freshman at UIT now, wait me for 4 years ig**
+### 💫SussySuspector
+**'Aim to become a  software engineer(Student/idk just student)'
 ---
 <h3 align="left">stay foolish, stay hungry</h3>
 <p align="left">

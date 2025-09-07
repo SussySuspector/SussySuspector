@@ -39,7 +39,7 @@ Hello, I'm Sussy. Currently, I'm studying at University of Information Technolog
 ![Sussy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sussysuspector&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=SussySuspectort&theme=gruvbox&border_radius=4.5) -->
-![Sussy](https://github-readme-stats.vercel.app/api/top-langs?username=SussySuspector&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph")
+
 
 #
 <br/>

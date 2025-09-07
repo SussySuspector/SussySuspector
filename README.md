@@ -55,7 +55,6 @@ Hello, I'm Sussy. Currently, I'm studying at University of Information Technolog
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SussySuspector.SussySuspector&"  />
-  <img src="https://custom-icon-badges.demolab.com/badge?page_id=SussySuspector.SussySuspector?style=for-the-badge&logoColor=white&logo=repo" />
 </div>
 
 ###

@@ -35,11 +35,12 @@ Hello, I'm Sussy. Currently, I'm studying at University of Information Technolog
 #
 
 ### 📊 Stats
-<div>
-  ![Sussy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sussysuspector&show_icons=true&theme=gruvbox)
+<div align="center">
+
+  ![Sussy's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=SussySuspectort&theme=gruvbox&border_radius=4.5)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sussysuspector&layout=compact&theme=gruvbox)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 </div>
 
 #

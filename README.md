@@ -1,5 +1,7 @@
 # 💫SussySuspector
-**`Aim to become a  software engineer(Student/idk just student)`**
+
+**`Aim to become a software engineer(Student/idk just student)`**
+
 ---
 <div align="left">
   <a href="https://open.spotify.com/user/31rsru3dr4cpgbpbekn4tot7t2jy">

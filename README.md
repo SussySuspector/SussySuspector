@@ -1,5 +1,5 @@
 ### 💫SussySuspector
-**'Aim to become a  software engineer(Student/idk just student)'
+**'Aim to become a  software engineer(Student/idk just student)'**
 ---
 <h3 align="left">stay foolish, stay hungry</h3>
 <p align="left">

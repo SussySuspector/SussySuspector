@@ -57,7 +57,7 @@ Hello, I'm Sussy. Currently, I'm studying at University of Information Technolog
 <div align="left">
   <a>
      
-    ![](https://komarev.com/ghpvc/?username=sussysuspector&style=for-the-badge)
+  ![](https://komarev.com/ghpvc/?username=sussysuspector&style=for-the-badge)
   
   </a>
   <a href="https://github.com/SussySuspector?tab=followers">

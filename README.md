@@ -4,7 +4,7 @@
 
 Hello, I'm Sussy. Currently, I'm studying at University of Information Technology - VNUHCM and i'm on the journey to become a software engineer. It's a challenging journey but i'm on my way🎶
 
----
+#
 <div align="left">
   <a href="https://open.spotify.com/user/31rsru3dr4cpgbpbekn4tot7t2jy">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rsru3dr4cpgbpbekn4tot7t2jy&count=1" alt="Spotify recently played"  />

@@ -2,7 +2,8 @@
 
 **`Aim to become a software engineer(Student/idk just student)`**
 
-Hello,I'm Sussy. Currently, Im studying at University of Information Technology - VNUHCM and im on the journey to become 
+Hello, I'm Sussy. Currently, I'm studying at University of Information Technology - VNUHCM and i'm on the journey to become a software engineer. Although It's a challenging journey but i'm on my way🎶
+
 ---
 <div align="left">
   <a href="https://open.spotify.com/user/31rsru3dr4cpgbpbekn4tot7t2jy">

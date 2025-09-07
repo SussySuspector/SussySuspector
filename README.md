@@ -56,7 +56,11 @@ Hello, I'm Sussy. Currently, I'm studying at University of Information Technolog
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SussySuspector.SussySuspector&"  />
   <a href="https://github.com/SussySuspector?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/SussySuspector?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/SussySuspector?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SussySuspector?tab=visitors">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/visitors/SussySuspector?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
 </div>
 
 ###

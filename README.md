@@ -37,9 +37,9 @@ Hello, I'm Sussy. Currently, I'm studying at University of Information Technolog
 ### 📊 Stats
 <div align="center">
 
-  ![Sussy's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  ![Sussy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sussysuspector&show_icons=true&theme=gruvbox)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gruvbox)
 
 </div>
 

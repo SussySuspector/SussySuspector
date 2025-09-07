@@ -1,10 +1,6 @@
 ### 💫SussySuspector
 **`Aim to become a  software engineer(Student/idk just student)`**
 ---
-<h3 align="left">stay foolish, stay hungry</h3>
-<p align="left">
-</p>
-
 <div align="left">
   <a href="https://open.spotify.com/user/31rsru3dr4cpgbpbekn4tot7t2jy">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rsru3dr4cpgbpbekn4tot7t2jy&count=1" alt="Spotify recently played"  />

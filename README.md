@@ -6,7 +6,7 @@ Hello, I'm Sussy. Currently, I'm studying at University of Information Technolog
 
 #
 
-# My Spotify's Playlist🎶
+### My Spotify's Playlist🎶
 <div align="center">
   <a href="https://open.spotify.com/user/31rsru3dr4cpgbpbekn4tot7t2jy">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rsru3dr4cpgbpbekn4tot7t2jy&count=5" alt="Spotify recently played"  />
